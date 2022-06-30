@@ -1,0 +1,19 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "simple express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasender/expressserver.git"
+  },
+  "author": "Thomas Ender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasender/expressserver/issues"
+  },
+  "homepage": "https://github.com/thomasender/expressserver#readme"
+}
